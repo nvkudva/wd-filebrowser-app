@@ -1,0 +1,19 @@
+Package:	filebrowser
+Section:	Addon
+Version:	2.63.23
+Packager:	Community
+Email:		none@localhost
+Homepage:	https://filebrowser.org
+Description:	File Browser is a web-based file manager for browsing, uploading, and managing files on the NAS.
+Icon:		filebrowser.png
+AddonShowName:	File Browser
+AddonIndexPage:
+AddonUsedPort:	8088
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+CenterType: 1
+MinFWVer: 5.00.000
+MaxFWVer:
+IndividualFlag: 0

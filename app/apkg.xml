@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <apkg>
+    <item>
+      <procudt_id>0</procudt_id>
+      <custom_id>20</custom_id>
+      <model_id>1</model_id>
+      <app_id>200</app_id>
+      <user_control>1</user_control>
+      <center_type>1</center_type>
+      <individual_flag>0</individual_flag>
+      <name>filebrowser</name>
+      <show>File Browser</show>
+      <enable>1</enable>
+      <version>2.63.23</version>
+      <date>20260917</date>
+      <inst_date>09/17/2026 16:20:00</inst_date>
+      <path>/mnt/HD/HD_a2/Nas_Prog/filebrowser</path>
+      <ps_name/>
+      <url/>
+      <url_port>8088</url_port>
+      <apkg_version>2</apkg_version>
+      <packager>Community</packager>
+      <email>none@localhost</email>
+      <homepage>https://filebrowser.org</homepage>
+      <inst_depend/>
+      <inst_conflict/>
+      <start_depend/>
+      <start_conflict/>
+      <description>File Browser is a web-based file manager for browsing, uploading, and managing files on the NAS.</description>
+      <icon>filebrowser.png</icon>
+      <MinFWVer>5.00.000</MinFWVer>
+      <MaxFWVer/>
+      <Hidden/>
+    </item>
+  </apkg>
+</config>

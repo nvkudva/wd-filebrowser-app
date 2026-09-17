@@ -1,0 +1,4 @@
+# runtime artifacts
+*.log
+fb.db
+app/filebrowser
